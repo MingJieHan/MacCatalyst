@@ -1,0 +1,6 @@
+framework module Catalyst {
+  umbrella header "Catalyst.h"
+
+  export *
+  module * { export * }
+}
